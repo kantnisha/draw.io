@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T14:46:48.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nnexks48sdKX20eKjsaG" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T14:51:18.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JHiVI-iRijmzwqMZNB9M" version="21.1.2" type="github">
   <diagram name="Page-1" id="rtDnuDJ027JOJXi1bW4T">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xGUmW0sbAqv446bdcCQy-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="90" width="1360" height="800" as="geometry" />
+        </mxCell>
         <mxCell id="xGUmW0sbAqv446bdcCQy-4" value="CLOUD" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="1010" height="640" as="geometry" />
         </mxCell>
