@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T07:29:24.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tvhGW6CDjPt66Ud9W0cC" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T07:41:47.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="x0nM50194daWFUbU6vsT" version="22.0.0" type="github">
   <diagram name="Page-1" id="4bSZOVlIUf3odMWwHysC">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0tVv4hT399vsuxq7toYX-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="10" width="1080" height="1020" as="geometry" />
+          <mxGeometry x="10" width="1080" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="0tVv4hT399vsuxq7toYX-2" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Design Twitter&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="30" width="60" height="30" as="geometry" />
@@ -18,6 +18,74 @@
         </mxCell>
         <mxCell id="0tVv4hT399vsuxq7toYX-6" value="&lt;b&gt;Features:&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;ul style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Creating a tweet&lt;/li&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Images&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Videos&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Text&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;View Tweets (generate TL)&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Follow users&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Interact -&amp;gt; RT, Fav, comment&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;Non-Functional:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;-- Read Heavy&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--Optimize for read&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--High availability over&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--Reliability&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(102, 102, 102); font-size: 17px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--Low latency (TL gen)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="400" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-7" value="&lt;b&gt;Calculations/Numbers&lt;br&gt;&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="470" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-9" target="0tVv4hT399vsuxq7toYX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-20" value="POST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0tVv4hT399vsuxq7toYX-13">
+          <mxGeometry x="0.1" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-12" target="0tVv4hT399vsuxq7toYX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-12" value="Load Balancer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-14" target="0tVv4hT399vsuxq7toYX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-14" target="0tVv4hT399vsuxq7toYX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-14" value="Tweet Service&lt;br&gt;/tweet/*" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-16" value="Tweets and Users&lt;br&gt;(Primary)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="490" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-18" value="Timeline Generation Service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-21" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-23" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0tVv4hT399vsuxq7toYX-22">
+          <mxGeometry x="-0.0961" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-24" value="Tweets and Users&lt;br&gt;(Replica)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="620" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-26" value="Tweets and Users&lt;br&gt;(Replica)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="620" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-27" value="Tweets and Users&lt;br&gt;(Replica)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="620" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0tVv4hT399vsuxq7toYX-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.367;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-16" target="0tVv4hT399vsuxq7toYX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tVv4hT399vsuxq7toYX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.367;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0tVv4hT399vsuxq7toYX-16" target="0tVv4hT399vsuxq7toYX-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
